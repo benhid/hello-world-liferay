@@ -1,4 +1,4 @@
-/# Liferay Portlet Deployment
+# Liferay Portlet Deployment
 
 This is an example of how to deploy a portlet on Liferay 7.1 with [Docker](https://hub.docker.com/r/liferay/portal/).
 
